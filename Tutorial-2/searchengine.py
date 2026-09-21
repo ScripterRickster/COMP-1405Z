@@ -2,12 +2,6 @@
 
 Made By Ricky L.
 
-
-Within the folder, there is a pages.txt file, along with some N-X.txt files and a search-results.txt file.
-The pages.txt file contains a list of the other files included (i.e., the files to search), while
-the N-X.txt files represent web pages with various words on them (each line contains a
-word) The search-results.txt file can be used for testing. You can use the pages.txt file
-to read the names of the other files that your code will have to search through
 '''
 
 
