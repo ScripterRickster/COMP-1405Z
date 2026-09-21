@@ -2,12 +2,6 @@
 
 Made By Ricky L.
 
-Purchase #1 Customer Name
-Purchase #1 Number of Desktops
-Purchase #1 Number of Laptops
-Purchase #1 Number of Tablets
-Purchase #1 Number of Toasters
-Purchase #1 Total Cost
 '''
 
 def get_number_purchases(filename):
