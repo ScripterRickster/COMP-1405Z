@@ -1,6 +1,6 @@
 '''
 
-Made by Ricky L.
+Made By Ricky L.
 
 
 Within the folder, there is a pages.txt file, along with some N-X.txt files and a search-results.txt file.
