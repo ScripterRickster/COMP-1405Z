@@ -1,4 +1,4 @@
-## Made By Ricky L. 
+# Made By Ricky L. 
 
 def count(list, value):
     fIndex = findstart(list, value)
