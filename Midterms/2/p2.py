@@ -1,3 +1,4 @@
+# Made By Ricky L.
 def find_single_repeat_words(S):
     """Return qualifying words as described in Problem 2."""
     # Write your solution here.
