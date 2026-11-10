@@ -1,4 +1,4 @@
-
+# Made By Ricky L.
 def count_numbers(nList):
     if nList == "": return 0
     if len(nList) > 0 and nList.count(" ") == 0: return 1
