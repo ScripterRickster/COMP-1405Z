@@ -1,3 +1,4 @@
+# Made By Ricky L.
 def same_character_set(word1, word2):
     """Return True when word1 and word2 contain the same distinct characters."""
     # Write your solution here.
