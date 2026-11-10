@@ -1,3 +1,4 @@
+# Made By Ricky L.
 def sum_divisors(N):
     divisor = 1
     total = 0
